@@ -1,0 +1,15 @@
+{
+  "name": "privy-graphql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonathan Huang",
+  "license": "MIT",
+  "dependencies": {
+    "babel-core": "^6.0.14",
+    "graphql-relay": "^0.3.4"
+  }
+}
